@@ -131,7 +131,7 @@ html {
   position: relative;
   animation-name: mohit4;
   animation-duration: 5s;
-  animation-iteration-count: 2;
+  animation-iteration-count: 1;
 }
 @keyframes mohit4 {
   0% {
